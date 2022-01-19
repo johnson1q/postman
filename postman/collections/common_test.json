@@ -1,10 +1,9 @@
 {
-	"info": {
-		"_postman_id": "c56fb299-e5d8-40ac-bef6-0ce0cb468126",
-		"name": "微信公众平台接口调试",
-		"description": "这是一个微信公众平台接口调试的集合",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
-	},
+    "info": {
+        "_postman_id": "385e4416-2321-4acf-a552-6ed6b5df5938",
+        "name": "common",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
 	"item": [
 		{
 			"name": "开始开发",
